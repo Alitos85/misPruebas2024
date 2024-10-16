@@ -1,0 +1,8 @@
+#container {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+#container h1, h4 {
+    text-align: center;
+}
